@@ -1,0 +1,6 @@
+[submodule "realtime-chat-frontend"]
+	path = realtime-chat-frontend
+	url = https://github.com/Creaml4tt3/realtime-chat-frontend
+[submodule "realtime-chat-backend"]
+	path = realtime-chat-backend
+	url = https://github.com/Creaml4tt3/realtime-chat-backend
